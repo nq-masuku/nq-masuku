@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nqobane "Nqoba" Masuku > @nq-masuku
-- 👀 And 'I create with code', I find joy in building software from server(Java), client(Typescript), Window-based(Java), and mobile
-  applications(Java).
+- 👀 And 'I create with code', I am a full-stack developer skilled in server-side (Java), client-side(Typescript,Angular), Window-based(Java Swing), and mobile
+  applications(Kotlin, Java) development.
 - 🌱 I’m currently learning Kotlin
 - 📫 You may reach me on Linkedin > https://www.linkedin.com/in/masuku
 
