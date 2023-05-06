@@ -2,7 +2,8 @@
 - 👀 And 'I create with code', I am a full-stack developer (Java,Kotlin & Angular) with a growing passion for Mobile device programming (Android development). 
 - 🌱 I’m currently learning Kotlin
 - 📫 You may reach me on <a href="https://www.linkedin.com/in/masuku">My Linkedin</a>
-- Checkout <a href="https://github.com/nq-masuku/projects-overview">Android & GUI screens</a> for some of the projects I have here.
+- Major <a href="https://github.com/tusimegod123/cs490-online-shopping-cart">project</a> collaborations.
+- Checkout <a href="https://github.com/nq-masuku/projects-overview">Android & GUI screens</a> for some of my other projects available here.
 
 - Thank you for stopping by!
 
